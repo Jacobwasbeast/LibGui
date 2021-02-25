@@ -17,3 +17,4 @@ And for code examples:
 * [Inventory Guis](https://github.com/CottonMC/LibGui/wiki/Getting-Started-with-GUIs)
 
 For an idea of what's coming down the road for all my projects, you can check my roadmap at https://trello.com/b/0TVU8d63/falkreons-roadmap
+Updated for 1.17 21w05a-21w08a
